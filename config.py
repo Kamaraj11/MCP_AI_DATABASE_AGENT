@@ -1,10 +1,10 @@
 DB_CONFIG = {
     "host": "localhost",
-    "user": "root",
-    "password": "root",
+    "user": "****",
+    "password": "****",
     "database": "mcp_project"
 }
 
-OLLAMA_URL = "http://localhost:11434/api/chat"
+OLLAMA_URL = "your url"
 MODEL_NAME = "llama3"
 
